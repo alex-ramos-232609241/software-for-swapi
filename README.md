@@ -16,3 +16,11 @@
 #### /api/vehicles/
 #### /api/starships/
 
+#### puesta es produccion en lamda AWS
+######  GET - https://o97uvqtgme.execute-api.us-east-1.amazonaws.com/dev/people
+######  GET - https://o97uvqtgme.execute-api.us-east-1.amazonaws.com/dev/planets
+######  GET - https://o97uvqtgme.execute-api.us-east-1.amazonaws.com/dev/films
+######  GET - https://o97uvqtgme.execute-api.us-east-1.amazonaws.com/dev/species
+######  GET - https://o97uvqtgme.execute-api.us-east-1.amazonaws.com/dev/vehicles
+######  GET - https://o97uvqtgme.execute-api.us-east-1.amazonaws.com/dev/starships
+
